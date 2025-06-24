@@ -23,22 +23,12 @@ A simple task management system designed for small teams to track individual con
 ```bash
 git clone https://github.com/mhtamim136/TeamFlow-Lite-Mini-Task-Tracker.git
 
-> **2.** CNavigate into the project folder:
-```bash
-cd TeamFlow-Lite-Mini-Task-Tracker
+---
 
-> **3.** Run the program using the batch file:
-```bash
-run.bat
-Make sure you have Java installed and added to your system PATH.
+## 👤 Author
 
-# 📌 Notes <br>
-- This project is fully offline and runs without any IDE.
-- No database or external library is used.
-- All compiled .class files are excluded via .gitignore.
-
-# 👤 Author <br>
-Murad Hasan Tamim
-Student of Computer Science and Engineering
-American International University-Bangladesh (AIUB)
-
+**Murad Hasan Tamim**  
+Student of Computer Science & Engineering  
+American International University-Bangladesh (AIUB)  
+[GitHub Profile](https://github.com/mhtamim136)  
+Email: mhtamim136@gmail.com
