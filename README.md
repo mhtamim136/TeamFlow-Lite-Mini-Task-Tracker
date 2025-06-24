@@ -22,6 +22,7 @@ A simple task management system designed for small teams to track individual con
 > **1.** Clone the repository:
 ```bash
 git clone https://github.com/mhtamim136/TeamFlow-Lite-Mini-Task-Tracker.git
+```  ← 🛠️ this closes the code block!
 
 ---
 
