@@ -58,7 +58,7 @@ A simple task management system designed for small teams to track individual con
 ### 🔹 SignUP Page
 ![SignUp](ScreenshotsForGitHub/SignUpPage.png)
 ### 🔹 HomePage
-![Homepage](ScreenshotsForGitHub/homePage.png)
+![HomePage](ScreenshotsForGitHub/HomePage.png)
 
 
 ## Author
