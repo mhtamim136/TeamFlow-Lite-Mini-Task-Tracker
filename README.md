@@ -51,13 +51,16 @@ A simple task management system designed for small teams to track individual con
 
 
 
-## Screenshots
+## 🖼️ Screenshots
 
-![Login Page](https://aiubedu60714-my.sharepoint.com/:i:/g/personal/23-55559-3_student_aiub_edu/Ec53TswRp4BEjeMUfc6Oos4BKM-qo3iTnEOES01Ja8LcdQ?e=Xq6xmY)
+### 🔹 Login Page
+![LoginPage](ScreenshotsForGitHub/LoginPage.png)
+### 🔹 SignUP Page
+![SignUp](ScreenshotsForGitHub/SignUpPage.png)
+### 🔹 HomePage
+![Homepage](ScreenshotsForGitHub/homepage.png)
 
-![SignUp Page](https://aiubedu60714-my.sharepoint.com/:i:/g/personal/23-55559-3_student_aiub_edu/EcuxeqM8DJ5DqsRVV3xtIqwBtWKUkyR3Nyp1m79RUUZXpA?e=OaYdyb)
 
-![Home Page](https://aiubedu60714-my.sharepoint.com/:i:/g/personal/23-55559-3_student_aiub_edu/EX1lWAyEI39Elzm3F9AdMk0B6fADcdrwK6oiaABbP6mkHw?e=odoSV8)
 ## Author
 **Murad Hasan Tamim**  
 Student of Computer Science & Engineering  
